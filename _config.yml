@@ -1,2 +1,18 @@
 theme: jekyll-theme-slate
-title: もじペー！
+title: 文字たんのお部屋。
+description: 文字たんのお部屋（moji.page）は文字たんのウェブサイトです。
+> 「もじもじアカデミア」はこちら。
+> 「VRアカデミア」ほこちら。
+
+url: "https://KawaneRio.github.io" #なんかよくわからん。とりあえず自分のGitHub Pageアドレスを入れてみる。
+baseurl: "/academia" #アカデミア関連はは /academia に。
+
+
+
+
+author:
+  fullname: KawaneRio
+  github: https://github.com/KawaneRio
+  misskey: https://misskey.io/@KawaneRio
+  twitter: https://twitter.com/@KawaneRio
+  
