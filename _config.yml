@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: "jeffreytse/jekyll-theme-yat"
 title: 文字たんのお部屋。
 description: 文字たんのお部屋（moji.page）は文字たんのウェブサイトです。
 > 「もじもじアカデミア」はこちら。
@@ -6,12 +6,8 @@ description: 文字たんのお部屋（moji.page）は文字たんのウェブ�
 
 url: "https://KawaneRio.github.io" #なんかよくわからん。とりあえず自分のGitHub Pageアドレスを入れてみる。
 baseurl: "/academia" #アカデミア関連はは /academia に。
-
-
-
-
 author:
-  fullname: KawaneRio
+  username: KawaneRio
   github: https://github.com/KawaneRio
   misskey: https://misskey.io/@KawaneRio
   twitter: https://twitter.com/@KawaneRio
