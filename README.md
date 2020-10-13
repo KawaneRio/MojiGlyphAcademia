@@ -1,2 +1,2 @@
-# KawaneRio.github.io
-My First GitHub Page!!
+# 文字たんの【もじページ】
+ようこそ！ [moji.page](moji.page) へ！
