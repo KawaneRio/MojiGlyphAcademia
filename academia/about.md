@@ -7,4 +7,4 @@
 
 - VRアカデミアってなーに？
 VRアカデミアとは、バーチャルっぽい人とかが、ためになるっぽいお話や活動をしたりするコミュニティの名前です！余談ですが、わたくし文字たんはいつかVRアカデミアの教員になってAPUで講義をすることが夢です！
-VRアカデミアの[公式サイトはこちら！](https://sites.google.com/view/vr-academia/)！
+VRアカデミアの[公式サイトはこちら！](https://sites.google.com/view/vr-academia/)
