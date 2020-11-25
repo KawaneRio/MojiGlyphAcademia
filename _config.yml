@@ -1,19 +1,4 @@
-# remote_theme: "jeffreytse/jekyll-theme-yat"
-# theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman
 
-title:『もじページ』
+# title:『もじページ』
 # description: 文字たんのお部屋『もじページ』は、文字たんの公式ホームページです。
-# > 「もじもじアカデミア」はこちら。
-# > 「VRアカデミア」ほこちら。
-
-# url: "https://KawaneRio.github.io" #なんかよくわからん。とりあえず自分のGitHub Pageアドレスを入れてみる。
-# baseurl: "/academia" #アカデミア関連はは /academia に。
-#author:
-#  username: KawaneRio
-#  github: https://github.com/KawaneRio
-#  misskey: https://misskey.io/@KawaneRio
-#  twitter: https://twitter.com/@KawaneRio
-  
-
-
