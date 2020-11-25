@@ -1,7 +1,9 @@
 # remote_theme: "jeffreytse/jekyll-theme-yat"
 # theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
 title:『もじページ』
-# description: 文字たんのお部屋『もじページ』は、文字たんの公式ホームページです。
+description: 文字たんのお部屋『もじページ』は、文字たんの公式ホームページです。
 # > 「もじもじアカデミア」はこちら。
 # > 「VRアカデミア」ほこちら。
 
@@ -14,4 +16,4 @@ title:『もじページ』
 #  twitter: https://twitter.com/@KawaneRio
   
 
-# theme: jekyll-theme-cayman
+
