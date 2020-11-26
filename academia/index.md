@@ -3,4 +3,4 @@
 
 [「もじもじアカデミア」について](https://www.moji.page/academia/about)
 
-academia/mojimojiacademia_logo.svg
+www.moji.page/academia/mojimojiacademia_logo.svg
