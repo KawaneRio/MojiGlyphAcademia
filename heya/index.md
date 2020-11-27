@@ -3,15 +3,14 @@
 
 ## 川音家の住民
 
-### 大分弁たん
-
 ### 文字たん
+
+### 大分弁たん
 
 ### ふぉっさちゃん
 マスターの使いやすさとわかりやすさを何よりも大事に思ってる子。めっちゃ怖い姉がいる。\
 \
-© 2020 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.\
-
+© 2020 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 
 ### ギガバイ子ちゃん
 いつの間にかマザーボードの空き箱に住み憑いていた自称サポート仙女。ハード関連にとても詳しく、マスターのPCパーツ選びに貢献した。\
@@ -39,14 +38,21 @@
 [© 2020 Advanced Micro Devices, Inc](https://www.amd.com/ja/corporate/copyright)
 
 ### サファイア
-ラデオン区のにいるといわれている、ガスマスクを被った謎の人物。めちゃくちゃ強いらしい。\
+ラデオン区のにいるといわれている、ガスマスクを被った謎の人物。めちゃくちゃ強いらしい。
 
 ### 初音ミク
 
+### 亞北ネル
 
 ### 重音テト
 
-### 亞北ネル
+### 唄音ウタ
+
+### 桃音モモ
+
+### 櫻歌ミコ
+
+### 川音リオ
 
 
 ## ついったーさんの知り合い
