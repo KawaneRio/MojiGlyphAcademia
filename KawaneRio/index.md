@@ -5,18 +5,18 @@
 川音リオとは・・・？
 
 ## 連絡先
-【ツイッター】
-- [川音リオ@KawaneRio@twitter.com](https://twitter.com/KawaneRio)
+【ツイッター】\
+[川音リオ@KawaneRio@twitter.com](https://twitter.com/KawaneRio)
 
-【ミスキー】
-- [川音リオ@KawaneRio@misskey.io](https://misskey.io/@KawaneRio)
+【ミスキー】\
+[川音リオ@KawaneRio@misskey.io](https://misskey.io/@KawaneRio)
 
-【パウー】
-- [川音リオ@KawaneRio@pawoo.net](https://pawoo.net/@KawaneRio)
+【パウー】\
+[川音リオ@KawaneRio@pawoo.net](https://pawoo.net/@KawaneRio)
 
 ## ショップ
-【BOOTH】
-- [kawane.booth.pm](https://kawane.booth.pm/)
+【BOOTH】\
+[kawane.booth.pm](https://kawane.booth.pm/)
 
 
 ## リバーサウンド特殊ライセンス2108について
