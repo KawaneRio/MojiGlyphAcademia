@@ -1,7 +1,23 @@
 # 川音リオの文字ページ
 ここは川音リオの文字ページです。
+
 ## 川音リオとは？
-川音リオとは、2016年に作られた次世代型UTAULOIDである。
+川音リオとは・・・？
+
+## 連絡先
+【ツイッター】
+- [川音リオ@KawaneRio@twitter.com](https://twitter.com/KawaneRio)
+
+【ミスキー】
+- [川音リオ@KawaneRio@misskey.io](https://misskey.io/@KawaneRio)
+
+【パウー】
+- [川音リオ@KawaneRio@pawoo.net](https://pawoo.net/@KawaneRio)
+
+## ショップ
+【BOOTH】
+- [kawane.booth.pm](https://kawane.booth.pm/)
+
 
 ## リバーサウンド特殊ライセンス2108について
 
