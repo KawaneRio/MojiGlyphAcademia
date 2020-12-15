@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "ja-JP" }}">
   <head>
+    
+    <!---
 
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -12,6 +14,22 @@
       </script>
     {% endif %}
     <meta charset="UTF-8">
+
+--->
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WWLZ18GNZN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WWLZ18GNZN');
+</script>
+    
+    
+    
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
