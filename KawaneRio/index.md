@@ -47,7 +47,6 @@ derle名: liCa-vinslain\
 【パウー】\
 [川音リオ@KawaneRio@pawoo.net](https://pawoo.net/@KawaneRio)
 
-
 ## VRChat関連
 【VRChat】\
 [川音リオ@KawaneRio@vrchat.com](https://vrchat.com/home/user/usr_d865c0d5-dfb7-4167-9329-8324fa94cee2)
@@ -66,7 +65,7 @@ derle名: liCa-vinslain\
 [川音リオ@KawaneRio@schools.duolingo.com](https://schools.duolingo.com/classroom/3978311)
 
 【Memrise】\
-[Bug Reports](https://feedback.vrchat.com/bug-reports)
+[R_75@app.memrise.com](https://app.memrise.com/user/R_75/courses/teaching/)
 
 ## PIXIV＆BOOTH
 【Pixiv】\
