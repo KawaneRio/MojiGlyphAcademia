@@ -1,5 +1,6 @@
 # 川音リオの文字ページ
-ここは川音リオの文字ページです。
+ここは川音リオの文字ページです。\
+現在個人用リンクページとして運用中。
 
 ## 川音リオとは？
 もじだいすき｜グラマトロジストの人。\
@@ -20,13 +21,21 @@ derle名: liCa-vinslain\
 ## 動画投稿サイト
 ### YouTube
 【とらりなちゃんねる】\
-[川音リオ@KawaneRio@twitter.com](https://twitter.com/KawaneRio)
+[とらりなちゃんねる@ToraRina_Channel@youtube.com](https://www.youtube.com/channel/UCnaU1mkqAEdk5SqO8hYt_aA)
 
-【ミスキー】\
-[川音リオ@KawaneRio@misskey.io](https://misskey.io/@KawaneRio)
+【VRCイベントニュース】\
+[VRCイベントニュース@VRC_EventNews@youtube.com](https://www.youtube.com/channel/UC6Pu88m4j3s24JquSbMDvbg)
 
-【パウー】\
-[川音リオ@KawaneRio@pawoo.net](https://pawoo.net/@KawaneRio)
+【もじもじアカデミア】\
+[もじもじアカデミア@MojiGlyph_Academia@youtube.com](https://www.youtube.com/channel/UClGKTVmQq2GrVk5-trnwinA)
+
+### PeerTube
+【とらりなちゃんねる】\
+[とらりなちゃんねる@trouble_linux@video.ploud.jp](https://video.ploud.jp/video-channels/trouble_linux/videos)
+
+### ニコニコ動画
+【川音リオ】\
+[川音リオ@nicovideo.jp](https://www.nicovideo.jp/user/22031969)
 
 ## SNS等
 【ツイッター】\
@@ -46,11 +55,29 @@ derle名: liCa-vinslain\
 【VRChat Forum】\
 [川音リオ@KawaneRio@ask.vrchat.com](https://ask.vrchat.com/u/kawanerio/summary)
 
+【VRChat Canny】\
+[Bug Reports](https://feedback.vrchat.com/bug-reports)
 
-## 
+## 言語学習関連
+【Duolingo】\
+[川音リオ@KawaneRio@duolingo.com](https://www.duolingo.com/profile/KawaneRio)
 
-## ショップ
+【Duolingo Classroom】\
+[川音リオ@KawaneRio@schools.duolingo.com](https://schools.duolingo.com/classroom/3978311)
+
+【Memrise】\
+[Bug Reports](https://feedback.vrchat.com/bug-reports)
+
+## PIXIV＆BOOTH
+【Pixiv】\
+[川音リオ@pixiv.net](https://www.pixiv.net/users/16622101)
+
 【BOOTH】\
+[kawane.booth.pm](https://kawane.booth.pm/)
+
+
+## 支援サイト
+【Patreon】\
 [kawane.booth.pm](https://kawane.booth.pm/)
 
 
