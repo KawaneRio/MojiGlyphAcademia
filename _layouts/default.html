@@ -2,7 +2,7 @@
 <html lang="{{ site.lang | default: "ja-JP" }}">
   <head>
     
-    <!---
+
 
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -15,9 +15,9 @@
     {% endif %}
     <meta charset="UTF-8">
 
---->
     
 <!-- Global site tag (gtag.js) - Google Analytics -->
+        <!---
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3586VD93V8"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -27,6 +27,7 @@
   gtag('config', 'G-3586VD93V8');
 </script>
     
+--->
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,6 +45,14 @@
       <a href="https://www.moji.page/academia">もじもじアカデミア</a> | <a href="https://www.moji.page/heya">文字たんのお部屋。</a>
       {{ content }}
       <footer class="site-footer">
+        
+    <div class="menu">
+        <ul>
+            <li><a href="index.html">ホーム</a></li>　　
+            <li><a href="contact.html">問い合わせ</a></li>　
+        </ul>
+    </div>
+        
       <!--&copy; Copyright 2020 Mojiglyph Academia <a href="https://www.moji.page/academia/about"> about </a><br>-->
           &copy; Copyright 2020 <a href="https://www.moji.page/KawaneRio">@KawaneRio</a><br>
           <br>
