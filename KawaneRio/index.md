@@ -17,9 +17,18 @@ derle名: liCa-vinslain\
 ᛖᚴ᛬ᛖᛚᛋᚲᚨ᛬ᛁ́ᛋᛚᛖᚾᛋᚲᚨ᛫ᛏᚨᚾ᛭!
 
 
+## 動画投稿サイト
+### YouTube
+【とらりなちゃんねる】\
+[川音リオ@KawaneRio@twitter.com](https://twitter.com/KawaneRio)
 
+【ミスキー】\
+[川音リオ@KawaneRio@misskey.io](https://misskey.io/@KawaneRio)
 
-## 連絡先
+【パウー】\
+[川音リオ@KawaneRio@pawoo.net](https://pawoo.net/@KawaneRio)
+
+## SNS等
 【ツイッター】\
 [川音リオ@KawaneRio@twitter.com](https://twitter.com/KawaneRio)
 
@@ -28,6 +37,17 @@ derle名: liCa-vinslain\
 
 【パウー】\
 [川音リオ@KawaneRio@pawoo.net](https://pawoo.net/@KawaneRio)
+
+
+## VRChat関連
+【VRChat】\
+[川音リオ@KawaneRio@vrchat.com](https://vrchat.com/home/user/usr_d865c0d5-dfb7-4167-9329-8324fa94cee2)
+
+【VRChat Forum】\
+[川音リオ@KawaneRio@ask.vrchat.com](https://ask.vrchat.com/u/kawanerio/summary)
+
+
+## 
 
 ## ショップ
 【BOOTH】\
