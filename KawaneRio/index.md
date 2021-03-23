@@ -10,7 +10,7 @@
 한글：카와네 리오\
 理名: ᴅᴨƂſᴅюƂ.зƂюƂm͔\
 derle名: liCa-vinslain\
-トキポナ名：jan Lijo pi kalama telo\
+トキポナ名：jan Lijo pi kalama telo
 
 
 
@@ -84,12 +84,5 @@ derle名: liCa-vinslain\
 【アズラン研究所】\
 [ſeȷıɭlec](https://viid.blog.jp)
 
-## リバーサウンド特殊ライセンス2108について
-
-**リバーサウンド特殊ライセンス2108**、または単に**ライセンス2108**とは、川音リオが独自に作った特殊ライセンスである。\
-
-以下の規約が適用される。
-
-- a
-- b
-- c
+【Plume】\
+[川音リオ@KawaneRio@plume.korako.me](https://plume.korako.me/@/KawaneRio)
