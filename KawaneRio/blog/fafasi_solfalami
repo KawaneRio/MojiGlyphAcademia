@@ -1,0 +1,84 @@
+# Fafasi Solfalami
+Decimal	Name	Etymology
+0	mu	f
+1	yu	f
+2	re	p
+3	mi	p
+4	rel	22
+5	fa	p
+6	remi	2×3
+7	so	p
+8	rek	23
+9	mil	32
+10	refa	2×5
+11	na	p
+12	relmi	22×3
+13	no	p
+14	reso	2×7
+15	mifa	3×5
+16	red	24
+17	ma	p
+18	remil	2×9
+19	mo	p
+20	relfa	22×5
+21	miso	3×7
+22	rena	2×11
+23	xe	p
+24	rekmi	23×3
+25	fal	52
+26	reno	2×13
+27	mik	33
+28	relso	22×7
+29	ta	p
+30	remifa	2×3×5
+31	to	p
+32	rej	25
+33	mina	3×11
+34	rema	2×17
+35	faso	5×7
+36	relmil	22×32
+37	xi	p
+38	remo	2×19
+39	mino	3×13
+40	rekfa	23×5
+41	pa	p
+42	remiso	2×3×7
+43	po	p
+44	rena	2×11
+45	milfa	32×5
+46	rexe	2×23
+47	fe	p
+48	redmi	24×3
+49	sol	72
+50	refal	2×52
+51	mima	3×17
+52	relno	2×13
+53	fi	p
+54	remik	2×33
+55	fana	5×11
+56	rekso	23×7
+57	mimo	3×19
+58	reta	2×29
+59	wa	p
+60	yuumu	1 and 0
+61	yuuyu	1 and 1
+62	yuure	1 and 2
+63	yuumi	1 and 3
+64	yuurel	1 and 3
+65	yuufa	1 and 5
+66	yuuremi	1 and 6
+		
+119	yuuwa	1 and 59
+120	reumu	2 and 0
+121	reuyu	2 and 1
+		
+3599	wauwa	59 and 59
+3600	yuumuumu	1 and 0 and 0
+3601	yuumuuyu	1 and 0 and 1
+3602	yuumuure	1 and 0 and 2
+		
+215999	wauwauwa	59 and 59 and 59
+216000	yuumuumuumu	1 and 0 and 0 and 0
+216001	yuumuumuuyu	1 and 0 and 0 and 1
+
+![image](https://user-images.githubusercontent.com/61252570/128731013-74897db1-403f-4e9a-bca2-a19aec5d856a.png)
